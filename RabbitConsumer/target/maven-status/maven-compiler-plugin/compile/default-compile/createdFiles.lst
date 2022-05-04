@@ -1,0 +1,12 @@
+com/consumer/RabbitMqCustomConsumer1D.class
+com/consumer/RabbitMqConsumer3E.class
+com/consumer/DynamicConsumer.class
+com/consumer/RabbitMqCustomConsumer1E6.class
+com/model/DeviceStats.class
+com/model/Device.class
+com/consumer/RabbitMqCustomProducer.class
+com/consumer/RabbitMqCustomConsumer.class
+com/consumer/RabbitConsumer2.class
+com/consumer/RabbitConsumer.class
+com/connection/RedisConnection.class
+com/consumer/RabbitMqProducer.class
